@@ -1,0 +1,23 @@
+{
+  "name": "@cloud-down/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "eslint config for Vue projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-down-au/eslint-config-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "vue"
+  ],
+  "author": "Kieran Simpson <kieran@clouddown.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloud-down-au/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/cloud-down-au/eslint-config-vue#readme"
+}
